@@ -1,0 +1,116 @@
+body{
+    color: #40514E;
+    margin:0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+h1{
+    color: #66BFBF;
+    line-height: 2;
+    font-size: 5.625rem;
+    margin-top: 50px auto 0 auto;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+     padding-bottom: 10px;
+}
+
+h2{
+    color: #66BFBF;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+
+}
+
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+    
+   
+}
+#top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+#bottom-cloud{
+
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    
+}
+
+.middle-container{
+        margin: 100px 0;
+        
+}
+
+.bottom-container{
+        background-color:#66BFBF;
+}
+
+.linkedin{
+    margin-left: 30px;
+}
+
+.whatsapp{
+    margin-left: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+    line-height: 2;
+}
+.code{
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.ml{
+    width: 25%;
+    height: 25%;
+    float: right;
+    margin-left: 40px;
+    
+
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    background-color: white;
+    width: 5%;
+    margin: 100px auto;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+
+}
+p{
+    line-height: 2;
+}
+.copyright{
+    color: #EAF6F6;
+    padding: 20px 0;
+
+}
